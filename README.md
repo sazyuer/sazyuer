@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Josema 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Estudiante <strong>de Desarrollo Web</strong>.<br />Voy a ir publicando poco a poco mis proyectos para poder conseguir un hueco en este fantástico mundo de la programación.</br>¡Recuerda, nuncas es tarde si la dicha es buena!</p>
+<p align="center">Estudiante <strong>de Desarrollo de Aplicaciones Web</strong>.<br />Voy a ir publicando poco a poco mis proyectos para poder conseguir un hueco en este fantástico mundo de la programación.</br>¡Recuerda, nuncas es tarde si la dicha es buena!</p>
 <p align="center">
 <!--   <a href="" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="josema" height="28px" width="28px" />
